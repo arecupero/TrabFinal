@@ -1,0 +1,20 @@
+{
+  "name": "trabalho-final",
+  "version": "1.0.0",
+  "description": "Trabalho Final ACC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TrabFinal"
+  },
+  "author": "Alan Recupero",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
